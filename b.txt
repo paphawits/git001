@@ -1,1 +1,5 @@
-I'm fine.
+<<<<<<< HEAD
+Super!!!
+=======
+I'm sad.
+>>>>>>> feature2
